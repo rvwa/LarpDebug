@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.donut.notifier.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "DonutMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
