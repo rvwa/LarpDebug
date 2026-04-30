@@ -1,1 +1,2 @@
-Some Random Shit Debug For DonutSMP wich is pretty useless feel free to skid this
+Fake overpriced shit that doesnt work and is ratted 100%.
+## Larp Debug V6 or V5 this shit is
